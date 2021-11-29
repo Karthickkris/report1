@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 368E-DB6C
+
+ Directory of C:\Users\KARTHICK.KRIS\OneDrive\Desktop\pro1
+
+29-11-2021  13:24    <DIR>          .
+29-11-2021  13:24    <DIR>          ..
+29-11-2021  13:24                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  103,192,817,664 bytes free
